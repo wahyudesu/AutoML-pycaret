@@ -1,0 +1,2 @@
+Age,Menopause,Tumor Size,Inv Nodes,Node Caps,Degree of Malignancy,Breast,Breast Quadrant,Irradiated?,Prediction Result,Prediction Probabilities,timestamp
+40-49,ge40,0-4,0-2,yes,1,left,left_up,yes,❌ Error: name 'pipeline' is not defined,"{""headers"": [""1"", ""2"", ""3""], ""data"": [], ""metadata"": null}",2025-04-19 14:31:06.126634
