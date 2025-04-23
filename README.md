@@ -10,3 +10,8 @@ Link data source: https://github.com/pycaret/datasets/tree/main/data/common
 uv venv
 .venv\Scripts\activate
 ```
+
+```
+cd fastapi
+uv run namefile.py
+```
